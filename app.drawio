@@ -1,0 +1,113 @@
+<mxfile host="65bd71144e">
+    <diagram id="MjDF3HY3xdgteAHnQF00" name="Features App">
+        <mxGraphModel dx="896" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-3" value="" style="edgeStyle=none;html=1;" parent="1" source="CIvyurHvsJHIPZn1b4cG-1" target="CIvyurHvsJHIPZn1b4cG-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-5" value="" style="edgeStyle=none;html=1;" parent="1" source="CIvyurHvsJHIPZn1b4cG-1" target="CIvyurHvsJHIPZn1b4cG-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-1" value="AppComponent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="60" width="300" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-2" value="About" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="210" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-7" value="" style="edgeStyle=none;html=1;" parent="1" source="CIvyurHvsJHIPZn1b4cG-4" target="CIvyurHvsJHIPZn1b4cG-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-9" value="" style="edgeStyle=none;html=1;" parent="1" source="CIvyurHvsJHIPZn1b4cG-4" target="CIvyurHvsJHIPZn1b4cG-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-11" value="" style="edgeStyle=none;html=1;" parent="1" source="CIvyurHvsJHIPZn1b4cG-4" target="CIvyurHvsJHIPZn1b4cG-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-4" value="Features" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="210" width="175" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-6" value="Feature" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="340" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-8" value="Feature" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="340" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="CIvyurHvsJHIPZn1b4cG-10" value="Feature" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="452.5" y="410" width="137.5" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="KgJUttXNQ-5OrkzioE3b" name="Todo App">
+        <mxGraphModel dx="1244" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="B84TvPqGDKw99qoHKkej-3" value="" style="edgeStyle=none;html=1;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-1" target="B84TvPqGDKw99qoHKkej-2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-5" value="" style="edgeStyle=none;html=1;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-1" target="B84TvPqGDKw99qoHKkej-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-1" target="2CPey1TpyudUXKvOZ4St-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-1" value="ToDoContainer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-2" target="2CPey1TpyudUXKvOZ4St-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-2" value="ToDoForm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-7" value="" style="edgeStyle=none;html=1;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-4" target="B84TvPqGDKw99qoHKkej-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-8" value="" style="edgeStyle=none;html=1;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-4" target="2CPey1TpyudUXKvOZ4St-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-11" style="edgeStyle=none;html=1;entryX=0.63;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" parent="1" source="B84TvPqGDKw99qoHKkej-4" target="2CPey1TpyudUXKvOZ4St-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-4" value="TodoList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="B84TvPqGDKw99qoHKkej-6" value="ToDoItem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-3" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="490" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-7" value="ToDoItem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-10" style="edgeStyle=none;html=1;rounded=1;" edge="1" parent="1" source="2CPey1TpyudUXKvOZ4St-9" target="2CPey1TpyudUXKvOZ4St-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-9" value="ToDoService" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-13" value="Todo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="410" width="140" height="104" as="geometry">
+                        <mxRectangle x="570" y="410" width="70" height="30" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-14" value="id:number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2CPey1TpyudUXKvOZ4St-13">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-15" value="item:string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2CPey1TpyudUXKvOZ4St-13">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-16" value="completed:boolean" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2CPey1TpyudUXKvOZ4St-13">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="2CPey1TpyudUXKvOZ4St-17" value="AppComponent" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="-90" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

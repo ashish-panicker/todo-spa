@@ -9,6 +9,11 @@ import { Component, Input } from '@angular/core';
 })
 export class FeatureComponent {
 
-  @Input() title: string = ''
-  @Input() description: string = ''
+  @Input({ required: true }) title: string = ''
+  @Input({ required: true }) description: string = ''
+
+  /**
+   * Usage 
+   * <app-feature [title]="'title name'" [description]="'title description'" />
+   */
 }

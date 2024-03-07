@@ -2,6 +2,14 @@
     <div class="action">
         <button class="action-button" type="button">More features</button>
     </div>
-    <app-feature title="something" description="some description" />
+    <app-feature 
+        [title]="'Power your development'" 
+        [description]="'Keep your codebase organized with an opinionated component model and flexible dependency injectionsystem'" />
+    <app-feature 
+        [title]="'Ship with confidence'" 
+        [description]="'Verified commit-by-commit against Google colossal monorepo'" />
+    <app-feature 
+        [title]="'Develop aplications faster'" 
+        [description]="'Effortlessly build, serve, test, deploy with Angular CLI'" />
 
 </section>
